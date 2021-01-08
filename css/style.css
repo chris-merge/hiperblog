@@ -5,3 +5,8 @@ body{
     border: 10px solid red;
 
 }
+span{
+    background: blue;
+font-family: italic;
+font-size: 8rem ;
+}
