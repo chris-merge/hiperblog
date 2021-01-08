@@ -6,7 +6,11 @@ body{
 
 }
 span{
+<<<<<<< HEAD
     background: green;
+=======
+    background: red;
+>>>>>>> cabecera
 font-family: italic;
 font-size: 8rem ;
 }
